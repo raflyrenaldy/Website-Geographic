@@ -2,7 +2,7 @@
 My portpolio - Info on train and bus departure schedules
 
 Hallo friends all.
-The program is free, free to learn and develop, but i do not if friends take the code to sell it, unless the program has been developed by friends, and has told me in advance, can pass my email <fikkri.reza@gmail.com>. so also if friends want to use the program for the school website of friends, i allow with the condition of notifiying me, Thank you.
+The program is free, free to learn and develop, but i do not if friends take the code to sell it, unless the program has been developed by friends, and has told me in advance, can pass my email <fikkri.reza@gmail.com>.
 
 [Webservice and Webclient]
 
