@@ -29,7 +29,7 @@ Fitur :
 - CRUD Route
 - 3 hak akses : Admin, User and Umum
 
-*Webclient / Rest-Client System informasi keberangkatan Bus dan Kereta Api
+*Webclient / Rest-Client keberangkatan Bus dan Kereta Api
 
 Fitur :
 - Search Route With Ajax
